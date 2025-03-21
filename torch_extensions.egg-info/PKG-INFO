@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: torch-extensions
+Version: 0.1.0
+Summary: A collection of useful PyTorch extensions
+Home-page: https://github.com/yourusername/Torch-Extensions
+Author: Your Name
+Author-email: Your Name <your.email@example.com>
+Project-URL: Homepage, https://github.com/yourusername/Torch-Extensions
+Project-URL: Repository, https://github.com/yourusername/Torch-Extensions
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
+
+Extensions for PyTorch
+
+No more importing or converting thousands of repos into every project

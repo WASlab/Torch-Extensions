@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools", "wheel", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "torch-extensions"
+dynamic = ["version"]
+description = "A collection of useful PyTorch extensions"
+readme = "README.md"
+authors = [{ name = "Waslab", email = "Gradiorum@gmail.com" }]
+license = { file = "LICENSE" }
+dependencies = ["torch"]
+requires-python = ">=3.8"
+
+[tool.setuptools_scm]
+version_scheme = "post-release"
+local_scheme = "node-and-date"
+
+[project.urls]
+Homepage = "https://github.com/Waslab/Torch-Extensions"
+Repository = "https://github.com/Waslab/Torch-Extensions"
