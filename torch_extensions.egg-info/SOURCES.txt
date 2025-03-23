@@ -2,6 +2,9 @@ MANIFEST.in
 README.md
 pyproject.toml
 setup.py
+.github/workflows/build.yml
+dist/torch_extensions-0.1.0-py3-none-any.whl
+dist/torch_extensions-0.1.0.tar.gz
 torch_extensions/__init__.py
 torch_extensions/layers.py
 torch_extensions.egg-info/PKG-INFO
@@ -10,5 +13,6 @@ torch_extensions.egg-info/dependency_links.txt
 torch_extensions.egg-info/requires.txt
 torch_extensions.egg-info/top_level.txt
 torch_extensions/optim/Muon.py
+torch_extensions/optim/Schedulers.py
 torch_extensions/optim/__init__.py
 torch_extensions/optim/blank.py

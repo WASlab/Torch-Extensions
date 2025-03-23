@@ -1,12 +1,12 @@
 Metadata-Version: 2.4
 Name: torch-extensions
-Version: 0.1.0
+Version: 0.1.0.post1+g73336a8.d20250321
 Summary: A collection of useful PyTorch extensions
-Home-page: https://github.com/yourusername/Torch-Extensions
-Author: Your Name
-Author-email: Your Name <your.email@example.com>
-Project-URL: Homepage, https://github.com/yourusername/Torch-Extensions
-Project-URL: Repository, https://github.com/yourusername/Torch-Extensions
+Home-page: https://github.com/Waslab/Torch-Extensions
+Author: Waslab
+Author-email: Waslab <Gradiorum@gmail.com>
+Project-URL: Homepage, https://github.com/Waslab/Torch-Extensions
+Project-URL: Repository, https://github.com/Waslab/Torch-Extensions
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: torch
